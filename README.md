@@ -11,7 +11,17 @@ TLDR of the challenge is that given a signal (in blue), you need to find where a
 
 ![Sample signal](readme_images/intro_signal.png)
 
+## Data used
+
+Used two datasets from NASA Apollo missions:
+- Passive Seismic Experiments
+from the Apollo Lunar Surface Experiments
+Package (ALSEP)
+- Early Apollo Scientific Experiments
+Package (EASEP)
+
 ## Work done during the hackathon
+
 
 The first step was to look at the data. If you zoom into the seismic event - there are actually a LOT of datapoints and you get a different view on the data.
 
